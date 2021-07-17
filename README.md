@@ -10,11 +10,13 @@
 ### Server
 
 > cd api
+> 
 > npm i
 
 ### Front
 
 > cd front
+> 
 > npm i
 
 ## Запуск
